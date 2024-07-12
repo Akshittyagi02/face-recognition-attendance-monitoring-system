@@ -1,1 +1,1 @@
-please change the all path's according to you
+please change all path's according to you
